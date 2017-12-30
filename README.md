@@ -19,21 +19,21 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 # Project
->
->## Project Description
->
->Design and implement a **Single-page web application** by your choice, using >[Angular](https://angular.io/)
->
->The application should have a:
->
->### Public Part
->
->The **public part** of your projects should be **visible without authentication**. This public part could be the application start page, application statistics, the user login and user registration forms.
->
->### Private Part (Registered users area)
->
->**Registered users** should have personal area in the web application accessible after **successful login**. This area could hold for example the user's profiles management functionality or the user's posts in a blog system.
->
+
+## Project Description
+
+Design and implement a **Single-page web application** by your choice, using [Angular](https://angular.io/)
+
+The application should have a:
+
+### Public Part
+
+The **public part** of your projects should be **visible without authentication**. This public part could be the application start page, application statistics, the user login and user registration forms.
+
+### Private Part (Registered users area)
+
+**Registered users** should have personal area in the web application accessible after **successful login**. This area could hold for example the user's profiles management functionality or the user's posts in a blog system.
+
 >## Technical Requirements
 >
 >Your Web application should include the following:
